@@ -1,6 +1,6 @@
 
 **Programmer**: Kasper  
-**Language**: C#
+**Language**: C++
 
 ## Overview
 
