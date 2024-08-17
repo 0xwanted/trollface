@@ -9,20 +9,20 @@ My Trojan is a malicious software (virus) designed to alter the Master Boot Reco
 ## How It Works
 
 1. **Execution**: Once the victim runs the virus, it begins by gaining necessary privileges to modify the MBR.
-2. **MBR Overwrite**: The virus then overwrites the MBR with the image found at the following URL: [Image](https://i.ibb.co/J7G8fnw/IMG-1588.webp).
+2. **MBR Overwrite**: The virus then overwrites the MBR with the image found at the following URL: [Image](https://ibb.co/NrLpZ1N.png).
 3. **System Disruption**: After the MBR is overwritten, the system is likely to fail to boot, displaying the overwritten image instead.
 
 ## GDI
 
 It shows the troll face and displays colors that are annoying to the eyes
 
-![Kasper Image](https://ibb.co/7Wzzwvf)
+![Kasper Image](https://ibb.co/7Wzzwvf.png)
 
 ## BSOD
 
 After the GDI appears the blue screen of death appears and then the MBR is done to prevent access to windows
 
-![mbr Image](https://ibb.co/NrLpZ1N)
+![mbr Image](https://ibb.co/NrLpZ1N.png)
 
 ## Disclaimer
 
