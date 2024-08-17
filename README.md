@@ -4,7 +4,7 @@
 
 ## Overview
 
-My Trojan is a malicious software (virus) designed to alter the Master Boot Record (MBR) of a victim's system. Upon execution, this virus replaces the MBR with a specific image, effectively rendering the system inoperable.
+Space is a malicious software (virus) designed to alter the Master Boot Record (MBR) of a victim's system. Upon execution, this virus replaces the MBR with a specific image, effectively rendering the system inoperable.
 
 ## How It Works
 
