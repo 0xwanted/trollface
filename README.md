@@ -9,12 +9,12 @@ Trollface187 is a malicious software (virus) designed to alter the Master Boot R
 ## How It Works
 
 1. **Execution**: Once the victim runs the virus, it begins by gaining necessary privileges to modify the MBR.
-2. **MBR Overwrite**: The virus then overwrites the MBR with the image found.
+2. **MBR Overwrite**: The virus then overwrites the MBR with an image .
 3. **System Disruption**: After the MBR is overwritten, the system is likely to fail to boot, displaying the overwritten image instead.
 
 ## GDI
 
-It shows the troll face and displays colors that are annoying to the eyes
+It shows some messagebox and displays colors that are annoying to the eyes 
 
 
 ## BSOD
@@ -43,4 +43,4 @@ Distributing, using, or testing this virus without explicit permission from the 
 
 ## Acknowledgements
 
-This virus was developed by **Kasper** as a demonstration of MBR manipulation using the C# programming language.
+This virus was developed by **Kasper** as a demonstration of MBR manipulation using the C++ programming language.
